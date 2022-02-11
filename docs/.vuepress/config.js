@@ -1,5 +1,5 @@
 module.exports = {
-    base: '/Cai-Cei/vuepress_blog/tree/master/vuepress-starter/',
+    base: '/vuepress_blog/',
     title: 'WowCei',
     description: '随便看看!',
     head: [
